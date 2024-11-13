@@ -1,16 +1,52 @@
 ## Hi there 👋
 
-<!--
-**Setka1324/Setka1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Me:
+
+    def __init__(self):
+        self.name = "Mark Temchenko"
+        self.role = "Full-stack Dev"
+        self.language_spoken = ["en_US", "de_DE", "ru_RU"]
+        self.location = "Amsterdam"
+
+    def say_hi(self):
+        print("Help... pls...")
+
+
+```
+
+```js
+const Mark = {
+    pronouns: "He" | "Him",
+    code: ["Python", "JavaScript"],
+    askMeAbout: ["Data Analysis", "WebDev", "CyberSecurity"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Bootstrap"],
+        },
+        backEnd: {
+            js: ["Node"],
+            python: ["Flask"],
+        },
+        },
+        data: {
+            python: ["NumPy", "Pandas", "SKLearn", "Seaborn"]
+        },
+        devOps: ["Docker🐳"],
+        databases: ["PostgreSQL", "SQLite"],
+        generativeAI: ["OpenAI", "Ollama"]
+    },
+
+    },
+    currentFocus: "Learning AI!",
+    funFact: "I can code faster without storypoints!"
+};
+```
+
+
+
