@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" height="350">
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/mark-the-artichoke/)
+![GitHub followers](https://img.shields.io/github/followers/Setka1324?label=Follow&style=social)
+
 
 ```python
 #!/usr/bin/python
@@ -19,7 +24,21 @@ class Me:
 
 ```
 
+## 👇 Hit in your console or terminal to connect with me.
+
+```bash
+curl tuples.live
+```
+
+
+
+## :space_invader: Coding Me
+
 ```js
+#!/usr/bin/env node
+
+
+
 const Mark = {
     pronouns: "He" | "Him",
     code: ["Python", "JavaScript"],
